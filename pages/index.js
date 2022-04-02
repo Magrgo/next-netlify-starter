@@ -11,9 +11,9 @@ export default function Home() {
       </Head>
 
       <main>
-        <Header title="Welcome to my app!" />
+        <Header title="Köszöntelek az oldalamon!" />
         <p className="description">
-          Get started by editing <code>pages/index.js</code>
+          Magyar Gergő -- 2022</code>
         </p>
       </main>
 
