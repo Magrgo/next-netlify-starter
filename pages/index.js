@@ -13,7 +13,7 @@ export default function Home() {
       <main>
         <Header title="Köszöntelek az oldalamon!" />
         <p className="description">
-         2022 </code>
+         2022 --- </code>
         </p>
       </main>
 
